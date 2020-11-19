@@ -22,4 +22,4 @@ npm run build
 yarn build
 ```
 
-[Projeto pronto até agora](https://nextjs-studies.thcarvalho.vercel.app)
+[Projeto pronto até agora](https://nextjs-studies.thcarvalho.vercel.app/home)
