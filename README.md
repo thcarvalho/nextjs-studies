@@ -1,6 +1,6 @@
 Só alguns testes e estudos com Next.js
 
-#Iniciando
+# Iniciando
 
 ```bash
 npm install
@@ -14,7 +14,7 @@ npm run dev
 yarn dev
 ```
 
-#Build
+# Build
 
 ```bash
 npm run build
